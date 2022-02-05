@@ -42,7 +42,36 @@ Grading
 
 To pass the course, it will be required to solve homework assignments which will be assigned every Thursday and due the following Thursday. The homeworks are 75% of the grade. It is ok to collaborate on homework if you creatively participate in solving it and understand what you write. Also there will be a take-home final assignment at the end of the term, which will weigh 25% of the grade.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homeworks | 75% |
-| Take-home final | 25%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homeworks
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home final
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

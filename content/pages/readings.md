@@ -6,17 +6,126 @@ uid: 35165b3e-7d2b-0ab9-1660-f01179fffd3d
 
 Readings are assigned weekly in the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
 
-| WEEK # | READINGS |
-| --- | --- |
-| 1 | Section 1.1-1.5 |
-| 2 | Section 1.6-1.13 |
-| 3 | Section 1.14-2.8 |
-| 4 | Section 2.9-3.5 |
-| 5 | Section 3.6-4.1 |
-| 6 | Section 4.2-4.9 |
-| 7 | Section 4.10-4.19 |
-| 8 | Section 4.20-4.24 |
-| 9 | Section 4.25-5.2 |
-| 10 | Section 5.3-5.5 |
-| 11 | Section 5.6-5.9 |
-| 12 | Chapter 6
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.1-1.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.6-1.13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Section 1.14-2.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Section 2.9-3.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Section 3.6-4.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.2-4.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.10-4.19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.20-4.24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Section 4.25-5.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Section 5.3-5.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Section 5.6-5.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
